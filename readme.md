@@ -58,7 +58,7 @@ Ensure you have the following installed:
 
 Below is an example of the application in action:
 
-![Screenshot of React Gato Encoder](assets/screenshot.png)
+![Screenshot of React Gato Encoder](src/assets/screenshot.png)
 
 ## Application Architecture
 
