@@ -64,7 +64,8 @@ Below is an example of the application in action:
 
 The application is structured as follows:
 
-```graph TD
+```mermaid
+graph TD
     App[App Component]
     App --> Header[Header Component]
     App --> InputField[InputField Component]
