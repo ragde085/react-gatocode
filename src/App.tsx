@@ -18,7 +18,7 @@ function App() {
               {/* Center column */}
               <h1 className="display-1 d-flex align-items-center justify-content-center mb-4">
                 <img
-                  src="src/assets/logo.png"
+                  src="/assets/logo.png"
                   className="rounded me-3" // Add margin to the right of the image
                   alt="Escudo Scouts Grupo XV Zapopan"
                   style={{ width: "80px" }} // Adjust size as needed
